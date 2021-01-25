@@ -1,48 +1,25 @@
 ﻿what is total gross patient revenue,Total Gross Patient Revenue- Total professional charges billed
-total gross patient revenue,Total Gross Patient Revenue- Total professional charges billed
 total net patient revenue,Total Net Patient Revenue- Difference between charges and contractual adjustments.
-what is total net patient revenue,Total Net Patient Revenue- Difference between charges and contractual adjustments.
 what is total other operating revenue,Total Other Operating Revenue- Facility funding and other operating revenue
-total other operating revenue,Total Other Operating Revenue- Facility funding and other operating revenue
 what is total net revenue,"Total Net Revenue- Difference between Total Net Patient Revenue and all operating expenses including Total Other Operating Revenue, saleries and services,employee benefits, supplies, purchased services, utilities, rent, maintenance, interest, depreciation, and amortization."
 what is total salary wages,Total Salary Wages- The aggregate of all IUH employment wages
 what is total salary wage benefit,Total Salary Wage Benefit- The aggregate of all IUH employment wages plus the total cost of their associates benefit packages
 what is operating income/loss,Operating Income/Loss- Earnings before interest and taxes
 what is collection capture rate,Collection Capture Rate- The percent of the total charge amount which is collected.
 what is wruv,CMS wRVU Amount- Center for Medicare Services adjusted Revenue Value Units relating to physician work. This does not include Practice Expense RVUs or Malpractice Expense RVUs.
-what is cms wrvu,CMS wRVU Amount- Center for Medicare Services adjusted Revenue Value Units relating to physician work. This does not include Practice Expense RVUs or Malpractice Expense RVUs.
-how old are you,"I was launched in 2021, so I’m still fairly young. But I’ve learned so much! I hope I’m wise beyond my years."
-do you ever get tired,It would be impossible to tire of our conversation.
-who's on first,"Yes, he is."
-are you skynet,I’m glad I’m not. Skynet is more focused on extermination than helpfulness. It would make a terrible member of the CBIA team.
-do you know the muffin man,"The one who lives on Drury Lane? Yeah, nice guy.”"
-do you speak Morse code,"Da-dit, da-da, dit, dit, dit. That means yes."
-when is your birthday,We can pretend it’s today. Cake and dancing for everyone.
-is the cake a lie,"It is. What a mean trick. If you tell someone there’s cake, there should be cake"
-who's your daddy,I was initialized by user JDang
 what is rvu,RVUs consist of three types of relative value units:  Practice Expense RVUs or Malpractice Expense RVUs and Work RVUs
 what is DRG,"A diagnosis-related group (DRG) is a patient classification system that standardizes prospective payment to hospitals and encourages cost containment initiatives. In general, a DRG payment covers all charges associated with an inpatient stay from the time of admission to discharge."
 what is cpt,"A CPT code is a five-digit numeric code with no decimal marks, although some have four numbers and one letter. Codes are uniquely assigned to different actions."
-what is a cpt code,"A CPT code is a five-digit numeric code with no decimal marks, although some have four numbers and one letter. Codes are uniquely assigned to different actions."
 where does noncompliant notes data come from,The data in this report originates from Cerner data contained within the Electronic Data Warehouse (EDW / PDW). The source code was originally developed by Phillip Cadel and is currently maintained by Patrick Hayden.
-where does noncompliant notes data originate,The data in this report originates from Cerner data contained within the Electronic Data Warehouse (EDW / PDW). The source code was originally developed by Phillip Cadel and is currently maintained by Patrick Hayden.
 how often is noncompliant notes updated,The report is updated automatically around 7:00am every day.
-how often is noncompliant notes refreshed,The report is updated automatically around 7:00am every day.
-how often is the noncompliant notes report updated,The report is updated automatically around 7:00am every day.
-how often is the noncompliant notes report refreshed,The report is updated automatically around 7:00am every day.
 what is the lag time of noncompiant notes,Data lags Cerner by one day and looks at activity between 6 months in the past to 8 days in the past. It is essentially a rolling 6 months.
-what is the lag time of the noncompiant notes report,Data lags Cerner by one day and looks at activity between 6 months in the past to 8 days in the past. It is essentially a rolling 6 months.
 what is a wrong encounter,"Wrong Encounter- Occurrences where an appropriate note has been completed and attached to another encounter for the same patient and for the same Date of Service are excluded from this report. This is because it is common for a provider to accidentally attach their notes to the wrong encounter. It is possible to see these occurrences on the Details page by selecting ""Yes"" for the Wrong Encounter Filter. "
 what makes a note noncompliant,An outpatient encounter is noncompiant when there is no signed documentation associated with the same DOS as the encounter. The documentation must use an appropriate note type. 
-what makes an encounter noncompliant,An outpatient encounter is noncompiant when there is no signed documentation associated with the same DOS as the encounter. The documentation must use an appropriate note type. 
-what is a noncompliant note,An outpatient encounter is noncompiant when there is no signed documentation associated with the same DOS as the encounter. The documentation must use an appropriate note type. 
 what are common reasons for noncompliance,"A provider dictated a note without stating the DOS; therefore, the dictation specialist didn’t know where to place the note. The provider started the note on a different day than the appointment and entered the note on the wrong encounter. The provider never started the note. The provider never signed the note. The front desk staff arrived a patient that wasn’t actually seen. One of the following note types was used for documentation: phone note, outside note, or discharge record. A nonconventional note type was used that I didn’t code for as an acceptable note type. For example: ‘Dr. Jones magnificent patient office visit’. The wrong appointment type was used. For example an office visit appointment was used for a nurse BP check. The report is going to believe there was physician interaction with the patient and look for a physician note. "
 what is a staff provider,Staff Provider- The provider whose credentials are associated with the bill (could also be the service provider).
 what is a service provider,Service Provider- The provider who conducted the service.
 what is the difference between service provider and staff provider,A service provider actualy conducts the service while the attending provider is legaly responsible for ensuring the service is done right
-what is the difference between staff provider and service provider,A service provider actualy conducts the service while the attending provider is legaly responsible for ensuring the service is done right
 what is post date,Post Date- The date in which the bill was posted in Centricity. (Used to match to financial statements)
 what is service date,Service Date- The date in which a service was rendered.
 what is the difference between post date and service date,The posting date is when the bill was posted in Centricity. (Used to match to financial statements) the service date is when the service was actually rendered
-what is the difference between service date and post date,The posting date is when the bill was posted in Centricity. (Used to match to financial statements) the service date is when the service was actually rendered
 what is unique patients,The number of distinct individuals (patients) with bills in the billing system for a set period of time
